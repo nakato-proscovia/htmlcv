@@ -1,3 +1,3 @@
 # htmlcv
 This repository contains code for my HTML CV
-https://github.com/nakato-proscovia/htmlcv
+https://roadmap.sh/projects/single-page-cv
